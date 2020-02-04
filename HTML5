@@ -1,0 +1,92 @@
+1. What does HTML stand for?
+Ans: HyperText Markup Language
+
+2. HTML5 tags have the same semantic meaning, regardless of the browser being used.
+Ans: True
+
+3.FTP stands for
+Ans: File Transfer Protocol
+
+4.HTTP stands for
+Ans: HyperText Transfer Protocol
+
+5.Which of following is part of a URL
+Ans: Protocol
+
+6. The Internet is a type of
+Ans: Wide Area Network
+
+7. What is the Request/Response Cycle?
+Ans: The process that happens when a client requests a page and a server responds with an appropriate files
+
+8. A ________________________ is a computer that is in charge of handling resource requests from multiple computers.
+Ans: Server
+
+9. Which of the following is an example of a top-level domain?
+Ans: .com
+
+10. The Domain Name Service looks up the domain and returns the
+Ans: IP (Internet Protocol ) Address
+
+11. Which organization is responsible for assigning top-level domain names?
+Ans: Internet Corporation for Assigned Numbers and Names (ICANN)
+
+12. A single web page may require several iterations of the Request-Response Cycle.
+Ans: True
+
+13. What does LAN stand for?
+Ans:  Local Area Network
+
+14. Whats does WAN stand for?
+Ans: Wide Area Network
+
+15. Which is the correct file extension for a web page?
+Ans: .html
+
+16. HTML uses _________ to annotate documents. This is a way of marking up the content to identify specific HTML elements.
+Ans: tags
+
+17. The original developers of HTML were opposed to the addition of tags for graphical images.
+Ans. True
+
+18. The first graphical browser was.... (please use one-word answer)
+Ans: 1993
+
+19. What are proprietary tags?
+Ans: Tags that works only on certain browsers
+
+20. Which of these tags breaks the tenet of the separation of content and layout?
+Ans: h1
+
+21. Which of the following are browsers?
+Ans: Safari, Chrome, Internet Explorer
+
+22. HTML5 is a cooperation between many parties. Which of the following is NOT part of that cooperation.
+Ans: DARPA
+
+23. The basic functionality of browsers is to translate HTML documents into viewable webpages.
+Ans: True
+
+24. Which version of HTML introduced semantic tags?
+Ans: HTML5
+
+25. The predecessor of the internet was
+Ans: Arpanet
+
+26.URL stands for
+Ans: Uniform Resource Locator
+
+27. _____________ is used to create rules about the color, font, and layout of our pages
+Ans: CSS
+
+28. CSS1 was introduced for public use in
+Ans: 1996
+
+29. What editor are you using?
+Ans: Sublime Text, Gedit, Notepad++ (Any )
+
+30. What browser(s) are you using?
+Ans: Google Chrome, Firefox, Safari, Microsoft Edge (Any)
+
+
+
